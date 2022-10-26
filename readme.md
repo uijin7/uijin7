@@ -8,5 +8,4 @@
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ## Projects
-* [practice](https://github.con/uijin7/practice1)
-* [1](https://github.com/uijin7/practice1)
+* [practice](https://github.com/uijin7/practice1)
